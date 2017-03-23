@@ -27,3 +27,5 @@ The following individuals have contributed to this training material:
 * de.NBI - German Network for Bioinformatics Infrastructure
 * NHGRI - National Human Genome Research Institute at the National Institutes of Health (USA)
 * NSF - National Science Foundation (USA)
+* ELIXIR-EXCELERATE - is funded by the European Commission within the Research Infrastructures programme of Horizon 2020, grant agreement number 676559
+* ELIXIR - is an intergovernmental organisation that brings together life science resources from across Europe.
